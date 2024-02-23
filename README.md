@@ -34,10 +34,14 @@ THEN I am taken to the corresponding section of the README
 
 ## Video of working app!
 
-[Untitled_ Feb 22, 2024 5_53 PM.webm](https://github.com/jacksonjjones/tiny_steam/assets/152823903/c1a3340b-4bdd-4cb0-8fab-98ee71d1abdc)
+[Untitled\_ Feb 22, 2024 5_53 PM.webm](https://github.com/jacksonjjones/tiny_steam/assets/152823903/c1a3340b-4bdd-4cb0-8fab-98ee71d1abdc)
 
 ## Link to video of working app!
 
 https://drive.google.com/file/d/1Xt5Vy03eIstpq3VMPLUZ8OZeJrqNemrp/view
 
 ## Screenshots of generated app!
+
+![Screenshot of Deployed app](commandlinescreenshot.png)
+
+![Screenshot of Deployed app](previewscreenshot.png)
